@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/main.8168fbd6.chunk.css",
-    "main.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.f3ff472d.chunk.js",
-    "main.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.f3ff472d.chunk.js.map",
+    "main.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.bbf69752.chunk.js",
+    "main.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.bbf69752.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/runtime-main.8809cd5f.js",
     "runtime-main.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/runtime-main.8809cd5f.js.map",
     "static/css/2.bc922b9c.chunk.css": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.bcf1dbfb.chunk.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.bcf1dbfb.chunk.js",
-    "static/js/2.bcf1dbfb.chunk.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.bcf1dbfb.chunk.js.map",
+    "static/js/2.8b6dd4a2.chunk.js": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.8b6dd4a2.chunk.js",
+    "static/js/2.8b6dd4a2.chunk.js.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.8b6dd4a2.chunk.js.map",
     "index.html": "/goit-react-hw-06-phonebook-redux-toolkit/index.html",
     "static/css/2.bc922b9c.chunk.css.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/2.bc922b9c.chunk.css.map",
     "static/css/main.8168fbd6.chunk.css.map": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/main.8168fbd6.chunk.css.map",
-    "static/js/2.bcf1dbfb.chunk.js.LICENSE.txt": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.bcf1dbfb.chunk.js.LICENSE.txt",
+    "static/js/2.8b6dd4a2.chunk.js.LICENSE.txt": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.8b6dd4a2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/goit-react-hw-06-phonebook-redux-toolkit/static/media/bg.f30e6e39.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8809cd5f.js",
     "static/css/2.bc922b9c.chunk.css",
-    "static/js/2.bcf1dbfb.chunk.js",
+    "static/js/2.8b6dd4a2.chunk.js",
     "static/css/main.8168fbd6.chunk.css",
-    "static/js/main.f3ff472d.chunk.js"
+    "static/js/main.bbf69752.chunk.js"
   ]
 }
